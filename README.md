@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 [/// WHO_I_AM ///]
+### 👨‍💻 >_ WHO_I_AM
 
 ```typescript
 const mitul = {
@@ -28,7 +28,7 @@ const mitul = {
 
 ---
 
-### 🚀 [/// FEATURED_DIRECTORIES ///]
+### 🚀 >_ FEATURED_DIRECTORIES
 
 #### 1. [Cost-Aware-AI-Gateway](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
 
@@ -50,7 +50,7 @@ const mitul = {
 
 ---
 
-### 🛠 [/// NEURAL_NETWORK_STACK ///]
+### 🛠 >_ NEURAL_NETWORK_STACK
 
 **Languages:**
 
@@ -72,7 +72,7 @@ const mitul = {
 
 ---
 
-### 📫 [/// SECURE_COMM_CHANNELS ///]
+### 📫 >_ SECURE_COMM_CHANNELS
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mitulbhatnagar">
@@ -88,7 +88,7 @@ const mitul = {
 
 ---
 
-### 📊 [/// TELEMETRY_DATA ///]
+### 📊 >_ TELEMETRY_DATA
 
 <div align="center">
 
@@ -98,7 +98,7 @@ const mitul = {
 
 ---
 
-### 📈 [/// COMMIT_ACTIVITY_STREAM ///]
+### 📈 >_ COMMIT_ACTIVITY_STREAM
 
 <div align="center">
 
@@ -109,5 +109,5 @@ const mitul = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0f&height=100&section=footer&text=EOF&fontSize=20&fontColor=ff00ff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0f&height=100&section=footer" alt="Footer" />
 </div>
