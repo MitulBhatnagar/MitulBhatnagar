@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=ff00ff&center=true&vCenter=true&width=600&lines=>_INITIATING_SYSTEM...;>_CSE_AI_ML_STUDENT;>_DEVELOPER_:_[C%2B%2B,+PYTHON,+JS];>_BUILDING_AI_GATEWAYS" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=ff00ff&center=true&vCenter=true&width=600&lines=INITIATING_SYSTEM...;CSE_AI_ML_STUDENT;DEVELOPER_:_[C%2B%2B,+PYTHON,+JS];BUILDING_AI_GATEWAYS" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 >_ WHO_I_AM
+### 👨‍💻 WHO_I_AM
 
 ```typescript
 const mitul = {
@@ -28,7 +28,7 @@ const mitul = {
 
 ---
 
-### 🚀 >_ FEATURED_DIRECTORIES
+### 🚀 FEATURED_DIRECTORIES
 
 #### 1. [Cost-Aware-AI-Gateway](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
 
@@ -50,7 +50,7 @@ const mitul = {
 
 ---
 
-### 🛠 >_ NEURAL_NETWORK_STACK
+### 🛠 TECH_STACK
 
 **Languages:**
 
@@ -72,7 +72,7 @@ const mitul = {
 
 ---
 
-### 📫 >_ SECURE_COMM_CHANNELS
+### 📫 SECURE_COMM_CHANNELS
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mitulbhatnagar">
@@ -88,7 +88,7 @@ const mitul = {
 
 ---
 
-### 📊 >_ TELEMETRY_DATA
+### 📊 TELEMETRY_DATA
 
 <div align="center">
 
@@ -98,7 +98,7 @@ const mitul = {
 
 ---
 
-### 📈 >_ COMMIT_ACTIVITY_STREAM
+### 📈 COMMIT_ACTIVITY_STREAM
 
 <div align="center">
 
