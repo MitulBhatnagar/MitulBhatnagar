@@ -54,27 +54,19 @@ const mitul = {
 
 **Languages:**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js" alt="Languages" />
-</a>
+[![Languages](https://skillicons.dev/icons?i=cpp,python,js)](https://skillicons.dev)
 
 **Frontend & Mobile:**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
-</a>
+[![Frontend](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 **Backend & Cloud:**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,aws" alt="Backend" />
-</a>
+[![Backend](https://skillicons.dev/icons?i=fastapi,aws)](https://skillicons.dev)
 
 **Dev Tools:**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git" alt="Dev Tools" />
-</a>
+[![Dev Tools](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 > *Specialized AI & Architecture Skills: System Design, LangGraph, LangChain, MCP.*
 
@@ -83,11 +75,11 @@ const mitul = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MitulBhatnagar&theme=nord&ring=4fd1c5&fire=4fd1c5&currStreakNum=4fd1c5" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulBhatnagar&layout=compact&theme=nord&border_color=4fd1c5&title_color=4fd1c5" alt="Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MitulBhatnagar&theme=nord&ring=4fd1c5&fire=4fd1c5&currStreakNum=4fd1c5)](https://github.com/MitulBhatnagar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitulBhatnagar&layout=compact&theme=nord&border_color=4fd1c5&title_color=4fd1c5)](https://github.com/MitulBhatnagar)
+
 </div>
 
 ---
@@ -95,9 +87,9 @@ const mitul = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MitulBhatnagar&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MitulBhatnagar&theme=nord&no-frame=true&no-bg=true&margin-w=15)](https://github.com/MitulBhatnagar)
+
 </div>
 
 ---
@@ -105,7 +97,9 @@ const mitul = {
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MitulBhatnagar&bg_color=2e3440&color=4fd1c5&line=4fd1c5&point=4fd1c5&area=true&hide_border=true" alt="Activity Graph" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MitulBhatnagar&bg_color=2e3440&color=4fd1c5&line=4fd1c5&point=4fd1c5&area=true&hide_border=true)](https://github.com/MitulBhatnagar)
+
 </div>
 
 ---
