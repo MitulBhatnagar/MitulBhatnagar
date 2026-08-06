@@ -78,18 +78,6 @@ const mitul = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MitulBhatnagar&theme=nord&ring=4fd1c5&fire=4fd1c5&currStreakNum=4fd1c5)](https://github.com/MitulBhatnagar)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitulBhatnagar&layout=compact&theme=nord&border_color=4fd1c5&title_color=4fd1c5)](https://github.com/MitulBhatnagar)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MitulBhatnagar&theme=nord&no-frame=true&no-bg=true&margin-w=15)](https://github.com/MitulBhatnagar)
-
 </div>
 
 ---
@@ -110,7 +98,15 @@ const mitul = {
   <a href="https://www.linkedin.com/in/mitulbhatnagar">
     <img src="https://img.shields.io/badge/LinkedIn-4fd1c5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:bhatnagarmitul2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-4fd1c5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/bhatnagarmitul">
+    <img src="https://img.shields.io/badge/Instagram-4fd1c5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4fd1c5&height=100&section=footer" alt="Footer" />
