@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4fd1c5&height=250&section=header&text=Mitul%20Bhatnagar&fontSize=70&desc=CSE%20AI%20ML%20STUDENT%20AT%20VIT%20BHOPAL%20UNIVERSITY&descSize=20&descAlignY=72&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,001111,002222,4fd1c5&height=250&section=header&text=Mitul%20Bhatnagar&fontSize=70&fontColor=ffffff&desc=CSE%20AI%20ML%20STUDENT%20AT%20VIT%20BHOPAL%20UNIVERSITY&descSize=20&descAlignY=72&animation=twinkling" alt="Header" />
 </div>
 
 <div align="center">
@@ -109,5 +109,5 @@ const mitul = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4fd1c5&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4fd1c5,002222,001111,000000&height=100&section=footer" alt="Footer" />
 </div>
