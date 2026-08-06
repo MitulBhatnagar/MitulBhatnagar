@@ -1,3 +1,81 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4fd1c5&height=250&section=header&text=Mitul%20Bhatnagar&fontSize=70&desc=CSE%20AI%20ML%20STUDENT%20AT%20VIT%20BHOPAL%20UNIVERSITY&descSize=20&descAlignY=72&animation=twinkling" alt="Header" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4fd1c5&center=true&vCenter=true&width=600&lines=CSE+AI+ML+Student;C%2B%2B%2C+Python%2C+JS+Developer;Building+AI+Gateways+%26+Mobile+Apps" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MitulBhatnagar&label=Profile%20views&color=4fd1c5&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MitulBhatnagar?label=Followers&style=flat-square&color=4fd1c5" alt="Followers" />
+</div>
+
+---
+
+### 👨‍💻 Who I Am
+
+```typescript
+const mitul = {
+  title: "CSE AI ML STUDENT AT VIT BHOPAL UNIVERSITY",
+  coreStack: ["C++", "Python", "JavaScript", "React", "React Native"],
+  specializations: ["System Design", "LangGraph", "LangChain", "MCP"],
+  toolsAndCloud: ["Git", "FastAPI", "AWS"],
+  launchedProjects: ["Cost-Aware-AI-Gateway", "Touch-Grass-App"],
+  status: "Building, Learning, and Innovating"
+};
+```
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [Cost-Aware-AI-Gateway](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
+
+| Layer | Technology |
+|---|---|
+| AI / Backend | Python, LangChain, LangGraph, FastAPI, MCP |
+| Cloud / Infra | AWS |
+
+[Code / Live 🔗](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
+
+#### 2. [Touch-Grass-App](https://github.com/MitulBhatnagar/Touch-Grass-App)
+
+| Layer | Technology |
+|---|---|
+| Frontend / Mobile | React Native, React, JavaScript |
+| Backend / Deploy | Python, Render |
+
+[Code / Live 🔗](https://github.com/MitulBhatnagar/Touch-Grass-App)
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" alt="Languages" />
+</a>
+
+**Frontend & Mobile:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
+</a>
+
+**Backend & Cloud:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,aws" alt="Backend" />
+</a>
+
+**Dev Tools:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git" alt="Dev Tools" />
+</a>
+
 > *Specialized AI & Architecture Skills: System Design, LangGraph, LangChain, MCP.*
 
 ---
