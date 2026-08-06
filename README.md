@@ -72,6 +72,22 @@ const mitul = {
 
 ---
 
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mitulbhatnagar">
+    <img src="https://img.shields.io/badge/LinkedIn-4fd1c5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhatnagarmitul2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-4fd1c5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/bhatnagarmitul">
+    <img src="https://img.shields.io/badge/Instagram-4fd1c5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -88,22 +104,6 @@ const mitul = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MitulBhatnagar&bg_color=2e3440&color=4fd1c5&line=4fd1c5&point=4fd1c5&area=true&hide_border=true)](https://github.com/MitulBhatnagar)
 
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mitulbhatnagar">
-    <img src="https://img.shields.io/badge/LinkedIn-4fd1c5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bhatnagarmitul2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4fd1c5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/bhatnagarmitul">
-    <img src="https://img.shields.io/badge/Instagram-4fd1c5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 <br/>
