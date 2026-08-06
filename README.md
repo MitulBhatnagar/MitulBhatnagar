@@ -30,11 +30,7 @@ const mitul = {
 
 ### 🚀 Featured Projects
 
-#### 1. Cost-Aware-AI-Gateway
-
-<a href="https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MitulBhatnagar&repo=Cost-Aware-AI-Gateway&theme=nord&border_color=4fd1c5&title_color=4fd1c5" alt="Cost-Aware-AI-Gateway" />
-</a>
+#### 1. [Cost-Aware-AI-Gateway](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
 
 | Layer | Technology |
 |---|---|
@@ -43,11 +39,7 @@ const mitul = {
 
 [Code / Live 🔗](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
 
-#### 2. Touch-Grass-App
-
-<a href="https://github.com/MitulBhatnagar/Touch-Grass-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MitulBhatnagar&repo=Touch-Grass-App&theme=nord&border_color=4fd1c5&title_color=4fd1c5" alt="Touch-Grass-App" />
-</a>
+#### 2. [Touch-Grass-App](https://github.com/MitulBhatnagar/Touch-Grass-App)
 
 | Layer | Technology |
 |---|---|
