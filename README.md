@@ -1,34 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,001111,002222,4fd1c5&height=250&section=header&text=Mitul%20Bhatnagar&fontSize=70&fontColor=ffffff&desc=CSE%20AI%20ML%20STUDENT%20AT%20VIT%20BHOPAL%20UNIVERSITY&descSize=20&descAlignY=72&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0f&height=250&section=header&text=MITUL_BHATNAGAR.exe&fontSize=65&fontColor=00ffff&desc=CSE%20AI%20ML%20STUDENT%20//%20VIT_BHOPAL_UNIVERSITY&descSize=18&descAlignY=75&animation=twinkling" alt="Header" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4fd1c5&center=true&vCenter=true&width=600&lines=CSE+AI+ML+Student;C%2B%2B%2C+Python%2C+JS+Developer;Building+AI+Gateways+%26+Mobile+Apps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=ff00ff&center=true&vCenter=true&width=600&lines=>_INITIATING_SYSTEM...;>_CSE_AI_ML_STUDENT;>_DEVELOPER_:_[C%2B%2B,+PYTHON,+JS];>_BUILDING_AI_GATEWAYS" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MitulBhatnagar&label=Profile%20views&color=4fd1c5&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MitulBhatnagar?label=Followers&style=flat-square&color=4fd1c5" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=MitulBhatnagar&label=SYSTEM_VIEWS&color=ff00ff&labelColor=000000&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MitulBhatnagar?label=NETWORK_NODES&style=for-the-badge&color=00ffff&labelColor=000000" alt="Followers" />
 </div>
 
 ---
 
-### 👨‍💻 Who I Am
+### 👨‍💻 [/// WHO_I_AM ///]
 
 ```typescript
 const mitul = {
-  title: "CSE AI ML STUDENT AT VIT BHOPAL UNIVERSITY",
+  title: "CSE AI ML STUDENT @ VIT BHOPAL",
   coreStack: ["C++", "Python", "JavaScript", "React", "React Native"],
   specializations: ["System Design", "LangGraph", "LangChain", "MCP"],
   toolsAndCloud: ["Git", "FastAPI", "AWS"],
   launchedProjects: ["Cost-Aware-AI-Gateway", "Touch-Grass-App"],
-  status: "Building, Learning, and Innovating"
+  status: "UPLOADING_CODE..."
 };
 ```
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 [/// FEATURED_DIRECTORIES ///]
 
 #### 1. [Cost-Aware-AI-Gateway](https://github.com/MitulBhatnagar/Cost-Aware-AI-Gateway)
 
@@ -50,7 +50,7 @@ const mitul = {
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 [/// NEURAL_NETWORK_STACK ///]
 
 **Languages:**
 
@@ -72,42 +72,42 @@ const mitul = {
 
 ---
 
-### 📫 Connect With Me
+### 📫 [/// SECURE_COMM_CHANNELS ///]
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mitulbhatnagar">
-    <img src="https://img.shields.io/badge/LinkedIn-4fd1c5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff" alt="LinkedIn" />
   </a>
   <a href="mailto:bhatnagarmitul2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4fd1c5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff00ff" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/bhatnagarmitul">
-    <img src="https://img.shields.io/badge/Instagram-4fd1c5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ffff" alt="Instagram" />
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 [/// TELEMETRY_DATA ///]
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MitulBhatnagar&theme=nord&ring=4fd1c5&fire=4fd1c5&currStreakNum=4fd1c5)](https://github.com/MitulBhatnagar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MitulBhatnagar&theme=synthwave)](https://github.com/MitulBhatnagar)
 
 </div>
 
 ---
 
-### 📈 Contribution Activity
+### 📈 [/// COMMIT_ACTIVITY_STREAM ///]
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MitulBhatnagar&bg_color=2e3440&color=4fd1c5&line=4fd1c5&point=4fd1c5&area=true&hide_border=true)](https://github.com/MitulBhatnagar)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MitulBhatnagar&bg_color=000000&color=00ffff&line=ff00ff&point=00ffff&area=true&hide_border=true)](https://github.com/MitulBhatnagar)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4fd1c5,002222,001111,000000&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0f&height=100&section=footer&text=EOF&fontSize=20&fontColor=ff00ff" alt="Footer" />
 </div>
